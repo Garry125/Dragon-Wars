@@ -1,0 +1,1345 @@
+fileFormatVersion: 2
+guid: a4e70eccb1b9d9241b46bd5692fbe0c1
+timeCreated: 1510513634
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: platform-block-06_0
+    21300002: platform-block-06_1
+    21300004: platform-block-06_2
+    21300006: platform-block-06_3
+    21300008: platform-block-06_4
+    21300010: platform-block-06_5
+    21300012: platform-block-06_6
+    21300014: platform-block-06_7
+    21300016: platform-block-06_8
+    21300018: platform-block-06_9
+    21300020: platform-block-06_10
+    21300022: platform-block-06_11
+    21300024: platform-block-06_12
+    21300026: platform-block-06_13
+    21300028: platform-block-06_14
+    21300030: platform-block-06_15
+    21300032: platform-block-06_16
+    21300034: platform-block-06_17
+    21300036: platform-block-06_18
+    21300038: platform-block-06_19
+    21300040: platform-block-06_20
+    21300042: platform-block-06_21
+    21300044: platform-block-06_22
+    21300046: platform-block-06_23
+    21300048: platform-block-06_24
+    21300050: platform-block-06_25
+    21300052: platform-block-06_26
+    21300054: platform-block-06_27
+    21300056: platform-block-06_28
+    21300058: platform-block-06_29
+    21300060: platform-block-06_30
+    21300062: platform-block-06_31
+    21300064: platform-block-06_32
+    21300066: platform-block-06_33
+    21300068: platform-block-06_34
+    21300070: platform-block-06_35
+    21300072: platform-block-06_36
+    21300074: platform-block-06_37
+    21300076: platform-block-06_38
+    21300078: platform-block-06_39
+    21300080: platform-block-06_40
+    21300082: platform-block-06_41
+    21300084: platform-block-06_42
+    21300086: platform-block-06_43
+    21300088: platform-block-06_44
+    21300090: platform-block-06_45
+    21300092: platform-block-06_46
+    21300094: platform-block-06_47
+    21300096: platform-block-06_48
+    21300098: platform-block-06_49
+    21300100: platform-block-06_50
+    21300102: platform-block-06_51
+    21300104: platform-block-06_52
+    21300106: platform-block-06_53
+    21300108: platform-block-06_54
+    21300110: platform-block-06_55
+    21300112: platform-block-06_56
+    21300114: platform-block-06_57
+    21300116: platform-block-06_58
+    21300118: platform-block-06_59
+    21300120: platform-block-06_60
+    21300122: platform-block-06_61
+    21300124: platform-block-06_62
+    21300126: platform-block-06_63
+    21300128: platform-block-06_64
+    21300130: platform-block-06_65
+    21300132: platform-block-06_66
+    21300134: platform-block-06_67
+    21300136: platform-block-06_68
+    21300138: platform-block-06_69
+    21300140: platform-block-06_70
+    21300142: platform-block-06_71
+    21300144: platform-block-06_72
+    21300146: platform-block-06_73
+    21300148: platform-block-06_74
+    21300150: platform-block-06_75
+    21300152: platform-block-06_76
+    21300154: platform-block-06_77
+    21300156: platform-block-06_78
+    21300158: platform-block-06_79
+    21300160: platform-block-06_80
+    21300162: platform-block-06_81
+    21300164: platform-block-06_82
+    21300166: platform-block-06_83
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: platform-block-06_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 376
+        width: 311
+        height: 259
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platform-block-06_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 571
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platform-block-06_2
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 571
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platform-block-06_3
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 571
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platform-block-06_4
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 571
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platform-block-06_5
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 571
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platform-block-06_6
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 571
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platform-block-06_7
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 571
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platform-block-06_8
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 571
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platform-block-06_9
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 571
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platform-block-06_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 507
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platform-block-06_11
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 507
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platform-block-06_12
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 507
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platform-block-06_13
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 507
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platform-block-06_14
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 507
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platform-block-06_15
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 507
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platform-block-06_16
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 507
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platform-block-06_17
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 507
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platform-block-06_18
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 507
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platform-block-06_19
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 507
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platform-block-06_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 443
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platform-block-06_21
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 443
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platform-block-06_22
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 443
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platform-block-06_23
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 443
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platform-block-06_24
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 443
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platform-block-06_25
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 443
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platform-block-06_26
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 443
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platform-block-06_27
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 443
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platform-block-06_28
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 443
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platform-block-06_29
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 443
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platform-block-06_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 379
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platform-block-06_31
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 379
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platform-block-06_32
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 379
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platform-block-06_33
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 379
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platform-block-06_34
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 379
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platform-block-06_35
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 379
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platform-block-06_36
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 379
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platform-block-06_37
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 379
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platform-block-06_38
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 379
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platform-block-06_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 315
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platform-block-06_40
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 315
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platform-block-06_41
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 315
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platform-block-06_42
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 315
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platform-block-06_43
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 315
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platform-block-06_44
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 315
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platform-block-06_45
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 315
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platform-block-06_46
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 315
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platform-block-06_47
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 315
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platform-block-06_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 251
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platform-block-06_49
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 251
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platform-block-06_50
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 251
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platform-block-06_51
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 251
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platform-block-06_52
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 251
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platform-block-06_53
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 251
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platform-block-06_54
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 251
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platform-block-06_55
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 251
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platform-block-06_56
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 251
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platform-block-06_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 187
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platform-block-06_58
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 187
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platform-block-06_59
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 187
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platform-block-06_60
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 187
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platform-block-06_61
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 187
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platform-block-06_62
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 187
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platform-block-06_63
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 187
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platform-block-06_64
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 187
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platform-block-06_65
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 187
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platform-block-06_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 123
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platform-block-06_67
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 123
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platform-block-06_68
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 123
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platform-block-06_69
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 123
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platform-block-06_70
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 123
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platform-block-06_71
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 123
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platform-block-06_72
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 123
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platform-block-06_73
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 123
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platform-block-06_74
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 123
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platform-block-06_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 59
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platform-block-06_76
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 59
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platform-block-06_77
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 59
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platform-block-06_78
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 59
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platform-block-06_79
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 361
+        width: 328
+        height: 274
+      alignment: 9
+      pivot: {x: -0.13287058, y: 3.3724504}
+      border: {x: 0, y: 274, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platform-block-06_80
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 59
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platform-block-06_81
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 59
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platform-block-06_82
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 59
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: platform-block-06_83
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 59
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
